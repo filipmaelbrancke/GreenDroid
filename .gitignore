@@ -2,6 +2,7 @@
 */bin/*
 */gen/*
 *.pyc
+*/target/*
 
 ## Exclude Mac OS X files
 *.DS_Store
